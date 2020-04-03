@@ -1,0 +1,14 @@
+﻿.carousel img { 
+	max-height:300px;
+	max-width: 400px;
+	margin: 0 auto;
+	
+}
+
+body{
+	background-color:cornflowerblue;
+}
+
+h1{
+	text-align:center;
+}
